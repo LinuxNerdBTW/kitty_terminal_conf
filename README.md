@@ -1,6 +1,5 @@
 # Kitty Terminal Configuration 
 kitty is a free and open-source GPU-accelerated terminal emulator focused on performance and features. kitty is written in a mix of C and Python programming languages, and it is one of few terminal emulators with GPU support along with Alacritty. Some says that kitty is faster than iTerm2 on macOS. kitty shares its name with another program — KiTTY —
-
 Lets move on the topic 
 This is a simple configuration for the kitty terminal , 
 you will find two files dracula.conf and kitty.conf 
@@ -22,3 +21,8 @@ for changing default shell on kitty terminal :
 * search for term "shell"
 * replace /usr/bin/fish /usr/bin/zsh or /usr/bin/bash or any shell that you want to use as default on kitty terminal 
 
+### Kitty terminal installation 
+Visit this link 
+* https://sw.kovidgoyal.net/kitty/binary/
+### Documentation is here for more customization : 
+* https://sw.kovidgoyal.net/kitty/overview/
