@@ -1,7 +1,6 @@
 # Kitty Terminal Configuration 
 kitty is a free and open-source GPU-accelerated terminal emulator focused on performance and features. kitty is written in a mix of C and Python programming languages, and it is one of few terminal emulators with GPU support along with Alacritty. Some says that kitty is faster than iTerm2 on macOS. kitty shares its name with another program — KiTTY —
 
-![Kitty Terminal]("https://d2.alternativeto.net/dist/s/kitty-terminal_890371_full.png?format=jpg&width=1600&height=1600&mode=min&upscale=false")
 Lets move on the topic 
 This is a simple configuration for the kitty terminal , 
 you will find two files dracula.conf and kitty.conf 
